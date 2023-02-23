@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Akshay",
+      "email": "akshay@mail.com",
+      "dob": "1996-03-02",
+      "mobileNo": "9273846570",
+      "bloodGroup": "B+ve",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "Ayushi",
+      "email": "ayushikes@gmail.com",
+      "dob": "1998-01-09",
+      "mobileNo": "7282638268",
+      "bloodGroup": "B+ve",
+      "gender": "Female",
+      "id": 9
+    },
+    {
+      "name": "Rashmi",
+      "email": "rashmi@gmail.com",
+      "dob": "2010-02-16",
+      "mobileNo": "9128373835",
+      "bloodGroup": "AB+ve",
+      "gender": "Female",
+      "id": 10
+    },
+    {
+      "name": "Ramesh",
+      "email": "ramesh@gmail.com",
+      "dob": "1994-12-30",
+      "mobileNo": "9172842388",
+      "bloodGroup": "O+ve",
+      "gender": "Male",
+      "id": 11
+    }
+  ]
+}

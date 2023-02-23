@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "name": "rishhabh",
+      "email": "rish@hamk.bdj",
+      "dob": "2023-01-05",
+      "mobileNo": "2878378837",
+      "bloodGroup": "B-ve",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Nemada",
+      "email": "nema@gmail.com",
+      "dob": "2018-02-06",
+      "mobileNo": "4268290463",
+      "bloodGroup": "O+ve",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "name": "Amarood",
+      "email": "amar@gmail.com",
+      "dob": "2010-02-02",
+      "mobileNo": "9293647807",
+      "bloodGroup": "B+ve",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}

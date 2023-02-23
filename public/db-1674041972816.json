@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Rishabh Gupta",
+      "email": "guptarishabh689@gmail.com",
+      "dob": "2023-01-11",
+      "mobileNo": "9120873373",
+      "bloodGroup": "B+ve",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Ayush",
+      "email": "ayush@gmail.com",
+      "dob": "2002-09-12",
+      "mobileNo": "9128292289",
+      "bloodGroup": "AB+ve",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "Prem",
+      "email": "prem@hotmail.com",
+      "dob": "1999-09-11",
+      "mobileNo": "9182725268",
+      "bloodGroup": "O+ve",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Prayaag",
+      "email": "prayag@mail.com",
+      "dob": "1998-08-12",
+      "mobileNo": "9253738390",
+      "bloodGroup": "B+ve",
+      "gender": "Male",
+      "id": 4
+    }
+  ]
+}

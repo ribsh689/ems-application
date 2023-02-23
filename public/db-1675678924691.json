@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Akshay",
+      "email": "akshay@mail.com",
+      "dob": "1996-03-02",
+      "mobileNo": "9273846570",
+      "bloodGroup": "B+ve",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "Asaaas",
+      "email": "asdasd@gmail.co",
+      "dob": "2023-01-18",
+      "mobileNo": "1212121212",
+      "bloodGroup": "A-ve",
+      "gender": "Male",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "name": "Akshay",
+      "email": "akshay@mail.com",
+      "dob": "1996-03-02",
+      "mobileNo": "9273846570",
+      "bloodGroup": "B+ve",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "Priyanshi",
+      "email": "priyanshi@gmail.com",
+      "dob": "2001-02-22",
+      "mobileNo": "9276386790",
+      "bloodGroup": "O+ve",
+      "gender": "Female",
+      "id": 8
+    },
+    {
+      "name": "Punav W",
+      "email": "punav@gmail.com",
+      "dob": "2023-01-06",
+      "mobileNo": "9263738368",
+      "bloodGroup": "AB-ve",
+      "gender": "Female",
+      "id": 10
+    }
+  ]
+}
